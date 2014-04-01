@@ -39,6 +39,13 @@
 "
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
+" Useful plugins / tools
+" bufexplorer -> http://www.vim.org/scripts/script.php?script_id=42
+" fuzzyfinder -> http://www.vim.org/scripts/script.php?script_id=1984
+" cscope
+" exuberant ctags
+" taglist -> http://www.vim.org/scripts/script.php?script_id=273
+" fswitch -> http://www.vim.org/scripts/script.php?script_id=2590
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => General
